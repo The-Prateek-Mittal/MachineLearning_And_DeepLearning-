@@ -5,7 +5,7 @@ This repository showcases a complete pipeline for classification using multiple 
 
 ✔️ Logistic Regression
 
-✔️ Support Vector Machine (SVM)
+✔️ Support Vector Machine (SVM) using linear, rbf, and polynomial kernel
 
 ✔️ Bagging Classifier
 
